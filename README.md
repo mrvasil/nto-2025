@@ -1,7 +1,7 @@
 <h1>Отчёт НТО</h1>
 <h4>подготовлен командой Poison Berries</h4>
 <br><br>
-Продублирнован на https://github.com/mrvasil/nto-2025
+Опубликован на <a href="https://github.com/mrvasil/nto-2025">https://github.com/mrvasil/nto-2025</a>
 <br>
 <br>
 <h2>Касса</h2>
@@ -55,9 +55,9 @@ if __name__ == '__main__':
 
 <br><br>
 <h2>Принтер 1</h2>
-Исследуем что \то за принтер, какой версии ПО и как работает.<br>
+Исследуем что это за принтер, какой версии ПО и как работает.<br>
 Погуглив, находим такой сплоит.<br>
-[https://www.rapid7.com/blog/post/2022/03/29/cve-2022-1026-kyocera-net-view-address-book-exposure/](https://www.rapid7.com/blog/post/2022/03/29/cve-2022-1026-kyocera-net-view-address-book-exposure/)
+<a href="https://www.rapid7.com/blog/post/2022/03/29/cve-2022-1026-kyocera-net-view-address-book-exposure">https://www.rapid7.com/blog/post/2022/03/29/cve-2022-1026-kyocera-net-view-address-book-exposure</a>
 
 
 ```python
