@@ -1,5 +1,5 @@
 <h1>Отчёт НТО</h1>
-<h4>подготовлен командой Poison Berries</h4>
+<h4>подготовлен командой Poison Berries вместе с Романом Черемных</h4>
 <br><br>
 Опубликован на <a href="https://github.com/mrvasil/nto-2025">https://github.com/mrvasil/nto-2025</a>
 <br>
